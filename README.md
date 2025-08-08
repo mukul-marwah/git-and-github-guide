@@ -2,6 +2,11 @@
 
 This is a beginner-friendly technical documentation webpage that explains the basics of Git and GitHub. It covers installation, repository creation, basic workflow, branching, and next steps.
 
+## Live Demo
+
+Check out the live version of this documentation here:  
+[https://mukul-marwah.github.io/git-and-github-guide/](https://mukul-marwah.github.io/git-and-github-guide/)
+
 ## Features
 
 - Clear sections on core Git concepts and commands  
@@ -22,3 +27,4 @@ This is a beginner-friendly technical documentation webpage that explains the ba
 ## License
 
 This project is open for learning and personal use.
+
